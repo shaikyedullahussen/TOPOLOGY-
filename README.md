@@ -1,2 +1,2 @@
 # DYNAMIC TOPOLOGY
-Creating Topology code  with dynamic agents with separate configuration.
+Creating dynamic Topology code  with dynamic agents with separate configuration.
